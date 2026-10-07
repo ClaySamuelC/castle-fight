@@ -2,6 +2,8 @@
 
 A 1v1 turn-based fort artillery game. Each player gets a castle and three keepers. Blow holes in the stone, mind the wind, and be the last side standing.
 
+Play it at https://claysamuelc.github.io/castle-fight/
+
 ## Play
 
 Create a match and give your opponent the 4-digit code, or join theirs. Practice plays against the castle bot. Same device passes one keyboard back and forth.
